@@ -1,0 +1,87 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id       String   @id @default(dbgenerated("concat('user:', gen_random_uuid())"))
+  name     String
+  email    String   @unique
+  password String
+  token    String?  @unique
+  role     UserRole
+  student  Student?
+  Teacher  Teacher?
+  Analyst  Analyst?
+}
+
+model Student {
+  id              String           @id @default(dbgenerated("concat('student:', gen_random_uuid())"))
+  userId          String?          @unique
+  user            User?            @relation(fields: [userId], references: [id])
+  studentSubjects StudentSubject[]
+  answers         Answer[]
+}
+
+model StudentSubject {
+  studentId String
+  subjectId String
+  student   Student @relation(fields: [studentId], references: [id])
+  subject   Subject @relation(fields: [subjectId], references: [id])
+
+  @@unique([studentId, subjectId])
+}
+
+model Subject {
+  id             String           @id @default(dbgenerated("concat('subject:', gen_random_uuid())"))
+  code           String           @unique
+  name           String
+  teacher        Teacher?         @relation(fields: [teacherId], references: [id])
+  teacherId      String?
+  studentSubject StudentSubject[]
+  questions      Question[]
+}
+
+model Teacher {
+  id       String    @id @default(dbgenerated("concat('teacher:', gen_random_uuid())"))
+  userId   String?   @unique
+  user     User?     @relation(fields: [userId], references: [id])
+  subjects Subject[]
+}
+
+model Analyst {
+  id     String  @id @default(dbgenerated("concat('analyst:', gen_random_uuid())"))
+  userId String? @unique
+  user   User?   @relation(fields: [userId], references: [id])
+}
+
+model Question {
+  id        String   @id @default(dbgenerated("concat('question:', gen_random_uuid())"))
+  subjectId String
+  question  String
+  subject   Subject  @relation(fields: [subjectId], references: [id])
+  answers   Answer[]
+}
+
+model Answer {
+  id         String   @id @default(dbgenerated("concat('answer:', gen_random_uuid())"))
+  questionId String
+  studentId  String
+  answer     String
+  grade      Float?
+  question   Question @relation(fields: [questionId], references: [id])
+  student    Student  @relation(fields: [studentId], references: [id])
+
+  @@unique([questionId, studentId])
+}
+
+enum UserRole {
+  STUDENT
+  TEACHER
+  ANALYST
+  ADMIN
+}

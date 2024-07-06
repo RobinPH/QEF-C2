@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quantum News Articles</title>
+    <script>
+      function debounce(func, wait, immediate) {
+        var timeout;
+        return function () {
+          var context = this,
+            args = arguments;
+          clearTimeout(timeout);
+          timeout = setTimeout(function () {
+            timeout = null;
+            if (!immediate) func.apply(context, args);
+          }, wait);
+          if (immediate && !timeout) func.apply(context, args);
+        };
+      }
+
+      const search = debounce(async (keyword) => {
+        const response = await fetch(
+          `/search?${new URLSearchParams({
+            keyword,
+          })}`
+        );
+        console.log("foo");
+
+        const { data } = await response.json();
+
+        setNews(data.news);
+      }, 300);
+
+      const setNews = (news) => {
+        const resultCount = document.getElementById("result-count");
+        resultCount.innerText = `Found (${news.length}) Quantum News Articles`;
+
+        const container = document.getElementById("news");
+        container.innerHTML = "";
+
+        for (const _news of news) {
+          const entry = document.createElement("div");
+
+          const title = document.createElement("h1");
+          const a = document.createElement("a");
+          a.innerText = _news.title;
+          a.href = _news.url;
+          title.appendChild(a);
+
+          const description = document.createElement("h2");
+          description.innerText = _news.description;
+
+          const author = document.createElement("p");
+          author.innerText = _news.author;
+
+          const publicationTime = document.createElement("p");
+          publicationTime.innerText = _news.publicationTime;
+
+          entry.appendChild(title);
+          entry.appendChild(description);
+          entry.appendChild(author);
+          entry.appendChild(publicationTime);
+
+          container.appendChild(entry);
+        }
+      };
+    </script>
+  </head>
+  <body>
+    <input oninput="search(this.value)" type="text" placeholder="Search..." />
+    <div id="result-count"></div>
+    <div id="news"></div>
+  </body>
+</html>

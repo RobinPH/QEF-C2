@@ -1,0 +1,1472 @@
+[
+  {
+    "title": "The neutrino\u2019s quantum fuzziness is beginning to come into focus",
+    "description": "An experiment studying the neutrino\u2019s \u201cwave packet\u201d sets a limit on the uncertainty of the subatomic particle\u2019s position.",
+    "author": "Emily Conover",
+    "publicationTime": "May 21, 2024",
+    "url": "https://www.sciencenews.org/article/neutrinos-quantum-fuzziness-uncertainty"
+  },
+  {
+    "title": "A maverick physicist is building a case for scrapping quantum gravity",
+    "description": "To merge quantum physics and general relativity, physicists aim to quantize gravity. But what if gravity isn\u2019t quantum at all?",
+    "author": "Emily Conover",
+    "publicationTime": "December 8, 2023",
+    "url": "https://www.sciencenews.org/article/gravity-quantum-mechanics-physics-theory"
+  },
+  {
+    "title": "The development of quantum dots wins the 2023 Nobel prize in chemistry",
+    "description": "Moungi Bawendi, Louis Brus and Alexei Ekimov split the prize for their work in creating nanoparticles whose properties depend on their size.",
+    "author": "Carolyn Gramling",
+    "publicationTime": "October 4, 2023",
+    "url": "https://www.sciencenews.org/article/quantum-dots-nanoparticles-bawendi-brus-ekimov"
+  },
+  {
+    "title": "Clara Sousa-Silva seeks molecular signatures of life in alien atmospheres",
+    "description": "Quantum astrochemist Clara Sousa-Silva studies how molecules in space interact with light, offering clues to what distant objects are made of.",
+    "author": "Elise Cutts",
+    "publicationTime": "September 19, 2023",
+    "url": "https://www.sciencenews.org/article/clara-sousa-silva-exoplanets-biosignatures"
+  },
+  {
+    "title": "Quantum computers could break the internet. Here\u2019s how to save it",
+    "description": "Today's encryption schemes will be vulnerable to future quantum computers, but new algorithms and a quantum internet could help.",
+    "author": "Emily Conover",
+    "publicationTime": "June 28, 2023",
+    "url": "https://www.sciencenews.org/article/quantum-computers-break-internet-save"
+  },
+  {
+    "title": "One photon is all it takes to kick off photosynthesis",
+    "description": "A single particle of light is the spark that begins the process of turning light to chemical energy in photosynthetic bacteria, a new study confirms.",
+    "author": "Emily Conover",
+    "publicationTime": "June 14, 2023",
+    "url": "https://www.sciencenews.org/article/one-photon-photosynthesis-light"
+  },
+  {
+    "title": "Quantum computers braided \u2018anyons,\u2019 long-sought quasiparticles with memory",
+    "description": "Particle-like quantum states called non-abelian anyons remember being swapped and could be useful for protecting information in quantum computers.",
+    "author": "Emily Conover",
+    "publicationTime": "May 30, 2023",
+    "url": "https://www.sciencenews.org/article/quantum-computers-braided-anyons-quasiparticles-memory"
+  },
+  {
+    "title": "A sapphire Schr\u00f6dinger\u2019s cat shows that quantum effects can scale up",
+    "description": "The atoms in a piece of sapphire oscillate in two directions at once, a mimic of the hypothetically dead-and-alive feline.",
+    "author": "Emily Conover",
+    "publicationTime": "April 25, 2023",
+    "url": "https://www.sciencenews.org/article/sapphire-schrodingers-cat-quantum"
+  },
+  {
+    "title": "Google\u2019s quantum computer reached an error-correcting milestone",
+    "description": "A larger array of quantum bits outperformed a smaller one in tests performed by Google researchers, suggesting quantum computers could be scaled up.",
+    "author": "Emily Conover",
+    "publicationTime": "February 22, 2023",
+    "url": "https://www.sciencenews.org/article/google-quantum-computer-sycamore-milestone"
+  },
+  {
+    "title": "Physicists stored data in quantum holograms made of twisted light",
+    "description": "Light that travels in corkscrew-like paths provides a way to make holograms that store large amounts of data in ultrasecure packages.",
+    "author": "James R. Riordon",
+    "publicationTime": "February 7, 2023",
+    "url": "https://www.sciencenews.org/article/quantum-hologram-physics-twisted-light"
+  },
+  {
+    "title": "This environmentally friendly quantum sensor runs on sunlight",
+    "description": "Quantum sensors often rely on power-hungry lasers to make measurements. A new quantum magnetometer uses sunlight to measure magnetic fields instead.",
+    "author": "James R. Riordon",
+    "publicationTime": "September 19, 2022",
+    "url": "https://www.sciencenews.org/article/quantum-sensor-sunlight-environment-magnetic-field"
+  },
+  {
+    "title": "Quantum entanglement makes quantum communication even more secure",
+    "description": "Bell tests proved that quantum mechanics really is \u201cspooky.\u201d Now they\u2019ve made quantum communication even more hacker-proof.",
+    "author": "Emily Conover",
+    "publicationTime": "July 27, 2022",
+    "url": "https://www.sciencenews.org/article/quantum-entanglement-communication-security-bell-test"
+  },
+  {
+    "title": "Aliens could send quantum messages to Earth, calculations suggest",
+    "description": "Scientists are developing quantum communications networks on Earth. Aliens, if they exist, could be going further.",
+    "author": "Emily Conover",
+    "publicationTime": "July 5, 2022",
+    "url": "https://www.sciencenews.org/article/alien-quantum-communication-extraterrestrial-communication-signal"
+  },
+  {
+    "title": "Quantum physics exponentially improves some types of machine learning",
+    "description": "It wasn\u2019t entirely clear if quantum computers could improve machine learning in practice, but new experiments and theoretical proofs show that it can.",
+    "author": "Emily Conover",
+    "publicationTime": "June 9, 2022",
+    "url": "https://www.sciencenews.org/article/quantum-physics-machine-learning-google-computer"
+  },
+  {
+    "title": "A new gravity sensor used atoms\u2019 weird quantum behavior to peer underground",
+    "description": "Quantum sensors promise to be more accurate and stable in the long run than other gravity probes.",
+    "author": "Maria Temming",
+    "publicationTime": "February 28, 2022",
+    "url": "https://www.sciencenews.org/article/new-gravity-sensor-atoms-quantum-physics-underground"
+  },
+  {
+    "title": "\u2018From Data to Quanta\u2019 defends Niels Bohr\u2019s view of quantum mechanics",
+    "description": "In his new book, philosopher Slobodan Perovi\u0107 corrects misconceptions about physicist Niels Bohr\u2019s work.",
+    "author": "Tom Siegfried",
+    "publicationTime": "February 15, 2022",
+    "url": "https://www.sciencenews.org/article/niels-bohrs-quantum-mechanics-data-quanta-book"
+  },
+  {
+    "title": "The quantum \u2018boomerang\u2019 effect has been seen for the first time",
+    "description": "Jostled particles return to their starting points in certain materials, an experiment reveals, confirming theoretical predictions.",
+    "author": "Emily Conover",
+    "publicationTime": "February 8, 2022",
+    "url": "https://www.sciencenews.org/article/quantum-boomerang-effect-seen-first-time"
+  },
+  {
+    "title": "Quantum particles can feel the influence of gravitational fields they never touch",
+    "description": "A quantum phenomenon predicted in 1959, the Aharonov-Bohm effect, also applies to gravity.",
+    "author": "Emily Conover",
+    "publicationTime": "January 13, 2022",
+    "url": "https://www.sciencenews.org/article/quantum-particles-gravity-spacetime-aharonov-bohm-effect"
+  },
+  {
+    "title": "A century of quantum mechanics questions the fundamental nature of reality",
+    "description": "A century after the quantum revolution, a lot of uncertainty remains.",
+    "author": "Tom Siegfried",
+    "publicationTime": "January 12, 2022",
+    "url": "https://www.sciencenews.org/article/quantum-theory-history-reality-uncertainty-physics"
+  },
+  {
+    "title": "Quantum physics requires imaginary numbers to explain reality",
+    "description": "Quantum theory based only on real numbers fails to explain the results of two new experiments.",
+    "author": "Emily Conover",
+    "publicationTime": "December 15, 2021",
+    "url": "https://www.sciencenews.org/article/quantum-physics-imaginary-numbers-math-reality"
+  },
+  {
+    "title": "Physicists have coaxed ultracold atoms into an elusive form of quantum matter",
+    "description": "Quantum spin liquids could be used to help protect fragile information in quantum computers.",
+    "author": "Emily Conover",
+    "publicationTime": "December 7, 2021",
+    "url": "https://www.sciencenews.org/article/quantum-physics-spin-liquid-atom"
+  },
+  {
+    "title": "Scientists finally detected a quantum effect that blocks atoms from scattering light",
+    "description": "When all available quantum states are full, atoms can\u2019t scatter light, thanks to the Pauli exclusion principle, new experiments show.",
+    "author": "Emily Conover",
+    "publicationTime": "November 22, 2021",
+    "url": "https://www.sciencenews.org/article/quantum-physics-atom-light-pauli-exclusion-principle"
+  },
+  {
+    "title": "Scientists are one step closer to error-correcting quantum computers",
+    "description": "In a quantum computer made with trapped ions, multiple quantum bits were combined into one to detect mistakes.",
+    "author": "Emily Conover",
+    "publicationTime": "October 4, 2021",
+    "url": "https://www.sciencenews.org/article/quantum-computer-error-correction-multiple-qubits-detect-mistakes"
+  },
+  {
+    "title": "One of nature\u2019s key constants is much larger in a quantum material",
+    "description": "The fine-structure constant is 10 times its normal value in the material, giving a peek into what physics in an alternate universe could look like.",
+    "author": "Emily Conover",
+    "publicationTime": "September 21, 2021",
+    "url": "https://www.sciencenews.org/article/physics-quantum-spin-ice-fine-structure-constant"
+  },
+  {
+    "title": "New \u2018vortex beams\u2019 of atoms and molecules are the first of their kind",
+    "description": "Twisted beams of atoms and molecules join other types of corkscrew beams made of light or electrons.",
+    "author": "Emily Conover",
+    "publicationTime": "September 2, 2021",
+    "url": "https://www.sciencenews.org/article/vortex-beam-atom-molecule-quantum-physics"
+  },
+  {
+    "title": "A proposed \u2018quantum compass\u2019 for songbirds just got more plausible",
+    "description": "Quantum physics could be behind birds\u2019 magnetic sense of direction, new measurements indicate.",
+    "author": "Emily Conover",
+    "publicationTime": "June 28, 2021",
+    "url": "https://www.sciencenews.org/article/quantum-mechanics-compass-songbird-physics"
+  },
+  {
+    "title": "Physicists used LIGO\u2019s mirrors to approach a quantum limit",
+    "description": "Using LIGO\u2019s laser beams to reduce jiggling rather than detect gravitational waves, scientists have gotten closer to the realm of quantum mechanics.",
+    "author": "Emily Conover",
+    "publicationTime": "June 17, 2021",
+    "url": "https://www.sciencenews.org/article/physics-ligo-mirrors-lasers-quantum-mechanics-limit"
+  },
+  {
+    "title": "Muon magnetism could hint at a breakdown of physics\u2019 standard model",
+    "description": "After two decades, a new measurement of the muon magnetic anomaly reinforces earlier hints that its value disagrees with standard physics.",
+    "author": "Emily Conover",
+    "publicationTime": "April 7, 2021",
+    "url": "https://www.sciencenews.org/article/muon-physics-standard-model-particles"
+  },
+  {
+    "title": "\u2018Designer molecules\u2019 could create tailor-made quantum devices",
+    "description": "Scientists are making molecules suited to a variety of quantum tasks by building them up, atom by atom.",
+    "author": "Emily Conover",
+    "publicationTime": "February 9, 2021",
+    "url": "https://www.sciencenews.org/article/chemistry-designer-molecules-quantum-device-qubit"
+  },
+  {
+    "title": "Drones could help create a quantum internet",
+    "description": "Flying drones sent entangled particles of light to two locations a kilometer apart.",
+    "author": "Emily Conover",
+    "publicationTime": "January 14, 2021",
+    "url": "https://www.sciencenews.org/article/physics-drones-could-help-create-quantum-internet"
+  },
+  {
+    "title": "The new light-based quantum computer Jiuzhang has achieved quantum supremacy",
+    "description": "A second type of quantum computer has now performed a calculation impossible for a traditional computer.",
+    "author": "Emily Conover",
+    "publicationTime": "December 3, 2020",
+    "url": "https://www.sciencenews.org/article/new-light-based-quantum-computer-jiuzhang-supremacy"
+  },
+  {
+    "title": "Galileo\u2019s famous gravity experiment holds up, even with individual atoms",
+    "description": "When dropped, two types of atoms accelerate at the same rate despite their differences, much like objects in Galileo\u2019s leaning Tower of Pisa experiment.",
+    "author": "Emily Conover",
+    "publicationTime": "October 28, 2020",
+    "url": "https://www.sciencenews.org/article/galileo-gravity-experiment-atoms-general-relativity-einstein"
+  },
+  {
+    "title": "A measurement of positronium\u2019s energy levels confounds scientists",
+    "description": "A gap in the energy levels of positronium seems to be substantially larger than predicted, and physicists don\u2019t know why.",
+    "author": "Emily Conover",
+    "publicationTime": "August 24, 2020",
+    "url": "https://www.sciencenews.org/article/positronium-energy-levels-exotic-atom-physics"
+  },
+  {
+    "title": "To live up to the hype, quantum computers must repair their error problems",
+    "description": "Before quantum computers can reach their potential, scientists will need to master quantum error correction.",
+    "author": "Emily Conover",
+    "publicationTime": "June 22, 2020",
+    "url": "https://www.sciencenews.org/article/quantum-computers-hype-supremacy-error-correction-problems"
+  },
+  {
+    "title": "This weird quantum state of matter was made in orbit for the first time",
+    "description": "Bose-Einstein condensates made on the International Space Station could reach temperatures lower than any known in the universe.",
+    "author": "Emily Conover",
+    "publicationTime": "June 11, 2020",
+    "url": "https://www.sciencenews.org/article/weird-quantum-state-matter-bose-einstein-condensate-space-station"
+  },
+  {
+    "title": "Physicists exploit a quantum rule to create a new kind of crystal",
+    "description": "Cold atoms can form crystals as a result of the Pauli exclusion principle.",
+    "author": "Emily Conover",
+    "publicationTime": "May 19, 2020",
+    "url": "https://www.sciencenews.org/article/physicists-exploit-quantum-rule-create-new-pauli-crystal"
+  },
+  {
+    "title": "A newfound superconducting current travels only along a material\u2019s edge",
+    "description": "In a first, scientists spot electricity flowing without resistance on the rim of a topological superconductor.",
+    "author": "Emily Conover",
+    "publicationTime": "April 30, 2020",
+    "url": "https://www.sciencenews.org/article/new-superconducting-current-travels-only-along-material-edge"
+  },
+  {
+    "title": "New quantum computers can operate at higher temperatures",
+    "description": "Silicon chips operate at higher temperatures than many others, raising hopes for building quantum integrated circuits.",
+    "author": "Emily Conover",
+    "publicationTime": "April 15, 2020",
+    "url": "https://www.sciencenews.org/article/new-quantum-computers-can-operate-higher-temperatures"
+  },
+  {
+    "title": "Quantum mechanics means some black hole orbits are impossible to predict",
+    "description": "Computer simulations reveal that foreseeing the paths of three orbiting objects sometimes requires precision better than the quantum limit.",
+    "author": "Emily Conover",
+    "publicationTime": "April 6, 2020",
+    "url": "https://www.sciencenews.org/article/quantum-mechanics-some-black-hole-orbits-impossible-predict"
+  },
+  {
+    "title": "Scientists entangled quantum memories linked over long distances",
+    "description": "The entanglement of quantum \u2018hard drives\u2019 is a crucial step toward creating a quantum internet.",
+    "author": "Emily Conover",
+    "publicationTime": "February 12, 2020",
+    "url": "https://www.sciencenews.org/article/scientists-entangled-quantum-memories-linked-over-long-distances"
+  },
+  {
+    "title": "Scientists cooled a nanoparticle to the quantum limit",
+    "description": "Physicists decreased a nanoparticle\u2019s motion to the lowest level allowed by quantum mechanics.",
+    "author": "Emily Conover",
+    "publicationTime": "January 30, 2020",
+    "url": "https://www.sciencenews.org/article/scientists-cooled-nanoparticle-quantum-limit-ground-state"
+  },
+  {
+    "title": "A quantum strategy could verify the solutions to unsolvable problems \u2014 in theory",
+    "description": "A quantum technique for verifying solutions to difficult problems could apply to an \u201cunbelievably huge\u201d class of puzzles.",
+    "author": "Emily Conover",
+    "publicationTime": "January 24, 2020",
+    "url": "https://www.sciencenews.org/article/quantum-strategy-could-verify-solutions-unsolvable-problems-theory"
+  },
+  {
+    "title": "Google claimed quantum supremacy in 2019 \u2014 and sparked controversy",
+    "description": "Google\u2019s quantum computer outperformed the most powerful supercomputer on a task, the company reported. But some scientists aren\u2019t fully convinced.",
+    "author": "Emily Conover",
+    "publicationTime": "December 16, 2019",
+    "url": "https://www.sciencenews.org/article/google-quantum-supremacy-claim-controversy-top-science-stories-2019-yir"
+  },
+  {
+    "title": "Quantum jitter lets heat travel across a vacuum",
+    "description": "In a first, scientists observed tiny, vibrating membranes exchanging heat due to quantum fluctuations.",
+    "author": "Emily Conover",
+    "publicationTime": "December 11, 2019",
+    "url": "https://www.sciencenews.org/article/quantum-jitter-lets-heat-travel-across-vacuum"
+  },
+  {
+    "title": "A new, theoretical type of time crystal could run without outside help",
+    "description": "The idea tiptoes closer to the original concept of time crystals, first proposed in 2012.",
+    "author": "Emily Conover",
+    "publicationTime": "November 27, 2019",
+    "url": "https://www.sciencenews.org/article/new-theoretical-type-time-crystal-could-run-without-outside-help"
+  },
+  {
+    "title": "Google officially lays claim to quantum supremacy",
+    "description": "The quantum computer Sycamore reportedly performed a calculation that even the most powerful supercomputers available can\u2019t reproduce.",
+    "author": "Emily Conover",
+    "publicationTime": "October 23, 2019",
+    "url": "https://www.sciencenews.org/article/google-quantum-computer-supremacy-claim"
+  },
+  {
+    "title": "Monika Schleier-Smith leads elaborate quantum conversations",
+    "description": "Monika Schleier-Smith forces atoms to interact in ways that could offer insights into quantum computing, precision timekeeping and perhaps black holes.",
+    "author": "Elizabeth Quill",
+    "publicationTime": "October 2, 2019",
+    "url": "https://www.sciencenews.org/article/monika-schleier-smith-sn-10-scientists-to-watch"
+  },
+  {
+    "title": "Sean Carroll\u2019s new book argues quantum physics leads to many worlds",
+    "description": "\u2018Something Deeply Hidden\u2019 offers a defense of The Many Worlds Interpretation of quantum mechanics.",
+    "author": "Tom Siegfried",
+    "publicationTime": "September 23, 2019",
+    "url": "https://www.sciencenews.org/article/sean-carroll-something-deeply-hidden-quantum-physics-many-worlds"
+  },
+  {
+    "title": "Rumors hint that Google has accomplished quantum supremacy",
+    "description": "Reports suggest a quantum computer has bested standard computers on one type of calculation, but practical applications are still a distant goal.",
+    "author": "Emily Conover",
+    "publicationTime": "September 21, 2019",
+    "url": "https://www.sciencenews.org/article/rumors-hint-that-google-has-accomplished-quantum-supremacy"
+  },
+  {
+    "title": "Quantum physicists have teleported \u2018qutrits\u2019 for the first time",
+    "description": "The technique could be useful for creating a future quantum internet.",
+    "author": "Emily Conover",
+    "publicationTime": "August 21, 2019",
+    "url": "https://www.sciencenews.org/article/quantum-physicists-teleported-qutrits-first-time"
+  },
+  {
+    "title": "In a first, scientists took the temperature of a sonic black hole",
+    "description": "A lab-made black hole that traps sound, not light, emits radiation at a certain temperature, as Stephen Hawking first predicted.",
+    "author": "Emily Conover",
+    "publicationTime": "May 29, 2019",
+    "url": "https://www.sciencenews.org/article/first-scientists-took-temperature-sonic-black-hole"
+  },
+  {
+    "title": "An experiment hints at quantum entanglement inside protons",
+    "description": "Particles inside protons seem to be linked on a scale smaller than a trillionth of a millimeter.",
+    "author": "Emily Conover",
+    "publicationTime": "May 17, 2019",
+    "url": "https://www.sciencenews.org/article/experiment-hints-quantum-entanglement-inside-protons"
+  },
+  {
+    "title": "Antimatter keeps with quantum theory. It\u2019s both particle and wave",
+    "description": "A new variation of the classic double-slit experiment confirms that antimatter, like normal matter, has wave-particle duality.",
+    "author": "Maria Temming",
+    "publicationTime": "May 3, 2019",
+    "url": "https://www.sciencenews.org/article/antimatter-quantum-theory-particle-wave-double-slit-experiment"
+  },
+  {
+    "title": "A science-themed escape room gives the brain a workout",
+    "description": "Quantum physicist Paul Kwiat reveals what it takes do well in LabEscape, his science-themed escape room.",
+    "author": "Emily Conover",
+    "publicationTime": "April 29, 2019",
+    "url": "https://www.sciencenews.org/article/science-themed-escape-room-gives-brain-workout"
+  },
+  {
+    "title": "A new quantum engine packs more power than its standard counterparts",
+    "description": "A new type of tiny machine harnesses quantum physics to produce more power than a normal engine, under certain conditions.",
+    "author": "Emily Conover",
+    "publicationTime": "April 1, 2019",
+    "url": "https://www.sciencenews.org/article/new-quantum-engine-packs-more-power-its-standard-counterparts"
+  },
+  {
+    "title": "How a proton gets its spin is surprisingly complicated",
+    "description": "Pinning down the source of protons\u2019 spin is surprisingly hard to do.",
+    "author": "Emily Conover",
+    "publicationTime": "March 25, 2019",
+    "url": "https://www.sciencenews.org/article/proton-spin-quarks"
+  },
+  {
+    "title": "LIGO will be getting a quantum upgrade",
+    "description": "Quantum squeezing of light will help scientists make better gravitational wave detectors.",
+    "author": "Emily Conover",
+    "publicationTime": "February 15, 2019",
+    "url": "https://www.sciencenews.org/article/ligo-gravitational-wave-detector-quantum-upgrade"
+  },
+  {
+    "title": "Photons reveal a weird effect called the quantum pigeonhole paradox",
+    "description": "Quantum particles seem to disobey a fundamental principle of mathematics.",
+    "author": "Emily Conover",
+    "publicationTime": "February 13, 2019",
+    "url": "https://www.sciencenews.org/article/quantum-pigeonhole-paradox-photons"
+  },
+  {
+    "title": "\u2018Beyond Weird\u2019 and \u2018What Is Real?\u2019 try to make sense of quantum weirdness",
+    "description": "The books \u2018Beyond Weird\u2019 and \u2018What is Real?\u2019 have different perspectives on what quantum physics says about reality.",
+    "author": "Tom Siegfried",
+    "publicationTime": "January 6, 2019",
+    "url": "https://www.sciencenews.org/article/beyond-weird-and-what-real-try-make-sense-quantum-weirdness"
+  },
+  {
+    "title": "Physicists wrangled electrons into a quantum fractal",
+    "description": "The tiny, repeating structure could reveal weird behavior of electrons in fractional dimensions.",
+    "author": "Emily Conover",
+    "publicationTime": "November 12, 2018",
+    "url": "https://www.sciencenews.org/article/physicists-wrangled-electrons-quantum-fractal"
+  },
+  {
+    "title": "Douglas Stanford probes the chaos inside black holes",
+    "description": "Theoretical physicist Douglas Stanford is linking some of the most massive objects known to the quantum realm.",
+    "author": "Emily Conover",
+    "publicationTime": "September 26, 2018",
+    "url": "https://www.sciencenews.org/article/douglas-stanford-sn-10-scientists-watch"
+  },
+  {
+    "title": "Rubidium atoms mimic the Eiffel Tower, a M\u00f6bius strip and other 3-D shapes",
+    "description": "Scientists have arranged atoms of the element rubidium into complex three-dimensional structures.",
+    "author": "Emily Conover",
+    "publicationTime": "September 5, 2018",
+    "url": "https://www.sciencenews.org/article/rubidium-atoms-mimic-eiffel-tower-mobius-strip-and-other-3-d-shapes"
+  },
+  {
+    "title": "Quantum computer simulates two types of bizarre materials",
+    "description": "In calculations involving about 2,000 quantum bits, a D-Wave machine reproduced the behavior of exotic substances.",
+    "author": "Emily Conover",
+    "publicationTime": "August 28, 2018",
+    "url": "https://www.sciencenews.org/article/quantum-computer-d-wave-simulations"
+  },
+  {
+    "title": "A new quantum device defies the concepts of \u2018before\u2019 and \u2018after\u2019",
+    "description": "Two events can happen in different orders at the same time, thanks to quantum physics.",
+    "author": "Emily Conover",
+    "publicationTime": "August 23, 2018",
+    "url": "https://www.sciencenews.org/article/quantum-switch-superposition-physics"
+  },
+  {
+    "title": "Designer diamonds could one day help build a quantum internet",
+    "description": "A new design in artificial diamonds stores and releases quantum information better than others.",
+    "author": "Maria Temming",
+    "publicationTime": "July 6, 2018",
+    "url": "https://www.sciencenews.org/article/designer-diamonds-could-one-day-help-build-quantum-internet"
+  },
+  {
+    "title": "Mini machines can evade friction by taking quantum shortcuts",
+    "description": "Special maneuvers allow researchers to create tiny machines that are as efficient as possible.",
+    "author": "Emily Conover",
+    "publicationTime": "June 29, 2018",
+    "url": "https://www.sciencenews.org/article/mini-machines-can-evade-friction-taking-quantum-shortcuts"
+  },
+  {
+    "title": "A tiny version of this physics toy is revealing quantum secrets",
+    "description": "Scientists created a quantum Newton\u2019s cradle to study thermal equilibrium.",
+    "author": "Emily Conover",
+    "publicationTime": "June 28, 2018",
+    "url": "https://www.sciencenews.org/article/tiny-physics-toy-newton-cradle-revealing-quantum-secrets"
+  },
+  {
+    "title": "Split atom clouds get entangled in quantum tests",
+    "description": "Scientists create quantum links between clouds consisting of thousands of atoms.",
+    "author": "Emily Conover",
+    "publicationTime": "April 26, 2018",
+    "url": "https://www.sciencenews.org/blog/science-ticker/split-atom-clouds-get-entangled-quantum-tests"
+  },
+  {
+    "title": "Spooky quantum entanglement goes big in new experiments",
+    "description": "Scientists entangled the motions of two jiggling devices that are visible with a magnifying glass or even the naked eye \u2014 if you have keen vision.",
+    "author": "Emily Conover",
+    "publicationTime": "April 25, 2018",
+    "url": "https://www.sciencenews.org/article/spooky-quantum-entanglement-goes-big-new-experiments"
+  },
+  {
+    "title": "Superconductors may shed light on the black hole information paradox",
+    "description": "Materials that conduct electricity without resistance might mimic black hole physics.",
+    "author": "Emily Conover",
+    "publicationTime": "March 9, 2018",
+    "url": "https://www.sciencenews.org/article/superconductors-black-hole-paradox"
+  },
+  {
+    "title": "Google moves toward quantum supremacy with 72-qubit computer",
+    "description": "Google\u2019s 72-qubit quantum chip may eventually perform a task beyond the ability of traditional computers.",
+    "author": "Emily Conover",
+    "publicationTime": "March 5, 2018",
+    "url": "https://www.sciencenews.org/article/google-moves-toward-quantum-supremacy-72-qubit-computer"
+  },
+  {
+    "title": "Two-way communication is possible with a single quantum particle",
+    "description": "One photon can transmit information in two directions at once.",
+    "author": "Emily Conover",
+    "publicationTime": "February 23, 2018",
+    "url": "https://www.sciencenews.org/article/two-way-communication-possible-single-quantum-particle"
+  },
+  {
+    "title": "Quantum computers go silicon",
+    "description": "Scientists performed the first quantum algorithms in silicon, and probed quantum bits with light.",
+    "author": "Emily Conover",
+    "publicationTime": "February 14, 2018",
+    "url": "https://www.sciencenews.org/article/quantum-computers-go-silicon"
+  },
+  {
+    "title": "A quantum communications satellite proved its potential in 2017",
+    "description": "Quantum communication through space is now possible, putting the quantum internet within closer reach.",
+    "author": "Emily Conover",
+    "publicationTime": "December 13, 2017",
+    "url": "https://www.sciencenews.org/article/global-quantum-communication-top-science-stories-2017-yir"
+  },
+  {
+    "title": "\u2018Arrow of time\u2019 reversed in quantum experiment",
+    "description": "In quantum systems, heat can flow \u201cbackward,\u201d from cold to hot.",
+    "author": "Emily Conover",
+    "publicationTime": "November 27, 2017",
+    "url": "https://www.sciencenews.org/article/arrow-of-time-reversed-quantum-experiment"
+  },
+  {
+    "title": "Quantum computing steps forward with 50-qubit prototype",
+    "description": "Bit by qubit, scientists are edging closer to the realm where quantum computers will reign supreme.",
+    "author": "Emily Conover",
+    "publicationTime": "November 10, 2017",
+    "url": "https://www.sciencenews.org/article/quantum-computing-steps-forward-50-qubit-prototype"
+  },
+  {
+    "title": "Quantum computers take a step forward with a 50-qubit prototype",
+    "description": "Race to build ever-more-powerful processors edges the technology closer to being able to best traditional machines.",
+    "author": "Emily Conover",
+    "publicationTime": "November 10, 2017",
+    "url": "https://www.sciencenews.org/blog/science-ticker/quantum-computers-take-step-forward-50-qubit-prototype"
+  },
+  {
+    "title": "Photons are caught behaving like superconducting electrons",
+    "description": "Light particles, or photons, swap energy like electrons in a superconductor.",
+    "author": "Emily Conover",
+    "publicationTime": "October 30, 2017",
+    "url": "https://www.sciencenews.org/article/photons-are-caught-behaving-superconducting-electrons"
+  },
+  {
+    "title": "Light\u2019s weird dual nature weathers trip to space and back",
+    "description": "\u201cDelayed-choice\u201d experiment performed in space reaffirms the idea that light can behave like a wave or a particle.",
+    "author": "Emily Conover",
+    "publicationTime": "October 25, 2017",
+    "url": "https://www.sciencenews.org/article/lights-weird-dual-nature-weathers-trip-space-and-back"
+  },
+  {
+    "title": "Quantum mysteries dissolve if possibilities are realities",
+    "description": "Quantum mysteries can be avoided if reality encompasses possibilities as well as actualities, a new paper proposes.",
+    "author": "Tom Siegfried",
+    "publicationTime": "October 1, 2017",
+    "url": "https://www.sciencenews.org/blog/context/quantum-mysteries-dissolve-if-possibilities-are-realities"
+  },
+  {
+    "title": "Quantum video chat links scientists on two different continents",
+    "description": "A Sept. 29 ultrasecure quantum video chat demonstrates the potential for quantum communications across the globe.",
+    "author": "Emily Conover",
+    "publicationTime": "September 29, 2017",
+    "url": "https://www.sciencenews.org/article/quantum-video-chat-links-scientists-two-different-continents"
+  },
+  {
+    "title": "A new test of water ripples supports the idea of quantum heat in a vacuum",
+    "description": "Water waves bolster theory that accelerating space travelers really feel the heat.",
+    "author": "Emily Conover",
+    "publicationTime": "September 18, 2017",
+    "url": "https://www.sciencenews.org/article/new-test-water-ripples-supports-idea-quantum-heat-vacuum"
+  },
+  {
+    "title": "Minuscule jitters may hint at quantum collapse mechanism",
+    "description": "Vibrations of a tiny cantilever could help reveal why quantum rules fail on large scales.",
+    "author": "Emily Conover",
+    "publicationTime": "September 1, 2017",
+    "url": "https://www.sciencenews.org/article/minuscule-jitters-may-hint-quantum-collapse-mechanism"
+  },
+  {
+    "title": "Tiny quantum storage device fits on a chip",
+    "description": "Photon information processing on nanoscale could enable future communication networks.",
+    "author": "Maria Temming",
+    "publicationTime": "August 31, 2017",
+    "url": "https://www.sciencenews.org/article/tiny-quantum-storage-device-fits-chip"
+  },
+  {
+    "title": "Modern-day Alice trades looking glass for wormhole to explore quantum wonderland",
+    "description": "A new paper shows how the possibility of wormholes linking quantum-entangled black holes could be tested in the laboratory.",
+    "author": "Tom Siegfried",
+    "publicationTime": "August 2, 2017",
+    "url": "https://www.sciencenews.org/blog/context/wormhole-black-hole-quantum-entanglement"
+  },
+  {
+    "title": "Quantum tunneling takes time, new study shows",
+    "description": "A new measurement disfavors the idea that electrons can escape atoms instantaneously.",
+    "author": "Emily Conover",
+    "publicationTime": "July 26, 2017",
+    "url": "https://www.sciencenews.org/article/quantum-tunneling-takes-time-new-study-shows"
+  },
+  {
+    "title": "China\u2019s quantum satellite adds two new tricks to its repertoire",
+    "description": "Satellite performs quantum teleportation and securely transmits encryption keys.",
+    "author": "Emily Conover",
+    "publicationTime": "July 7, 2017",
+    "url": "https://www.sciencenews.org/article/china-quantum-satellite-adds-two-new-tricks-repertoire"
+  },
+  {
+    "title": "Dive deep to discover unexpected connections",
+    "description": "Readers often praise Science News for its brevity. But some ideas need more space, writes acting editor in chief Elizabeth Quill.",
+    "author": "Elizabeth Quill",
+    "publicationTime": "July 6, 2017",
+    "url": "https://www.sciencenews.org/article/dive-deep-discover-unexpected-connections"
+  },
+  {
+    "title": "A quarter century ago, the qubit was born",
+    "description": "The invention of the qubit a quarter century ago enabled the quantum information revolution.",
+    "author": "Tom Siegfried",
+    "publicationTime": "July 5, 2017",
+    "url": "https://www.sciencenews.org/article/quarter-century-ago-qubit-was-born"
+  },
+  {
+    "title": "Quantum computers are about to get real",
+    "description": "Qubit-based machines are gearing up to solve problems that are out of reach for even the most powerful supercomputers.",
+    "author": "Emily Conover",
+    "publicationTime": "June 29, 2017",
+    "url": "https://www.sciencenews.org/article/quantum-computers-are-about-get-real"
+  },
+  {
+    "title": "Quantum satellite shatters entanglement record",
+    "description": "A satellite sent entangled particles to two Chinese cities 1,200 kilometers apart.",
+    "author": "Emily Conover",
+    "publicationTime": "June 15, 2017",
+    "url": "https://www.sciencenews.org/article/quantum-satellite-shatters-entanglement-record"
+  },
+  {
+    "title": "Quantum tractor beam could tug atoms, molecules",
+    "description": "The wavelike behavior of quantum particles could be harnessed to move atoms.",
+    "author": "Emily Conover",
+    "publicationTime": "May 19, 2017",
+    "url": "https://www.sciencenews.org/article/quantum-tractor-beam-could-tug-atoms-molecules"
+  },
+  {
+    "title": "Key Einstein principle survives quantum test",
+    "description": "Particles in quantum superposition adhere to the equivalence principle in atomic test.",
+    "author": "Emily Conover",
+    "publicationTime": "April 28, 2017",
+    "url": "https://www.sciencenews.org/article/key-einstein-principle-survives-quantum-test"
+  },
+  {
+    "title": "There\u2019s still a lot we don\u2019t know about the proton",
+    "description": "Researchers are puzzling over the proton's radius, spin and whether it decays.",
+    "author": "Emily Conover",
+    "publicationTime": "April 18, 2017",
+    "url": "https://www.sciencenews.org/article/theres-still-lot-we-dont-know-about-proton"
+  },
+  {
+    "title": "Millions of atoms entangled in record-breaking quantum tests",
+    "description": "Scientists make advance in the quest to take quantum effects to larger scales.",
+    "author": "Emily Conover",
+    "publicationTime": "March 27, 2017",
+    "url": "https://www.sciencenews.org/article/millions-atoms-entangled-record-breaking-quantum-tests"
+  },
+  {
+    "title": "Quantum counterfeiters might succeed",
+    "description": "Physicists demonstrate security issue with quantum cash.",
+    "author": "Emily Conover",
+    "publicationTime": "March 13, 2017",
+    "url": "https://www.sciencenews.org/article/quantum-counterfeiters-might-succeed"
+  },
+  {
+    "title": "Readers amazed by Amasia",
+    "description": "Quantum spookiness, shifting landmasses and more in reader feedback.",
+    "author": "Science News Staff",
+    "publicationTime": "February 22, 2017",
+    "url": "https://www.sciencenews.org/article/readers-amazed-amasia"
+  },
+  {
+    "title": "Vacuum\u2019s quantum effect on light detected",
+    "description": "Light can be polarized through interactions with empty space.",
+    "author": "Emily Conover",
+    "publicationTime": "December 9, 2016",
+    "url": "https://www.sciencenews.org/article/vacuum-quantum-effect-light-detected"
+  },
+  {
+    "title": "Cosmic test confirms quantum weirdness",
+    "description": "Physicists used starlight to perform a cosmic Bell test.",
+    "author": "Emily Conover",
+    "publicationTime": "December 5, 2016",
+    "url": "https://www.sciencenews.org/article/cosmic-test-confirms-quantum-weirdness"
+  },
+  {
+    "title": "Readers ponder hominid hookups and more",
+    "description": "Neandertal evolution, quantum internet and more in reader feedback.",
+    "author": "Science News Staff",
+    "publicationTime": "November 30, 2016",
+    "url": "https://www.sciencenews.org/article/readers-ponder-hominid-hookups-and-more"
+  },
+  {
+    "title": "Why quantum mechanics might need an overhaul",
+    "description": "Nobel laureate Steven Weinberg says current debates in quantum mechanics need a new approach to comprehend reality.",
+    "author": "Tom Siegfried",
+    "publicationTime": "November 4, 2016",
+    "url": "https://www.sciencenews.org/blog/context/why-quantum-mechanics-might-need-overhaul"
+  },
+  {
+    "title": "\u2018Time crystal\u2019 created in lab",
+    "description": "A chain of ions creates a crystal that repeats in time instead of in space.",
+    "author": "Emily Conover",
+    "publicationTime": "October 26, 2016",
+    "url": "https://www.sciencenews.org/article/time-crystal-created-lab"
+  },
+  {
+    "title": "Taming photons, electrons paves way for quantum internet",
+    "description": "Scientists are gearing up to create supersecure global quantum networks.",
+    "author": "Emily Conover",
+    "publicationTime": "September 19, 2016",
+    "url": "https://www.sciencenews.org/article/taming-photons-electrons-paves-way-quantum-internet"
+  },
+  {
+    "title": "Experiment confirms plan for quantum-coded messages",
+    "description": "A new way to send secret quantum messages uses shorter keys.",
+    "author": "Laurel Hamers",
+    "publicationTime": "August 23, 2016",
+    "url": "https://www.sciencenews.org/article/experiment-confirms-plan-quantum-coded-messages"
+  },
+  {
+    "title": "A new \u2018Einstein\u2019 equation suggests wormholes hold key to quantum gravity",
+    "description": "A new Einsteinian equation, ER=EPR, may be the clue physicists need to merge quantum mechanics with general relativity.",
+    "author": "Tom Siegfried",
+    "publicationTime": "August 17, 2016",
+    "url": "https://www.sciencenews.org/blog/context/new-einstein-equation-wormholes-quantum-gravity"
+  },
+  {
+    "title": "General relativity has readers feeling upside down",
+    "description": "Readers respond to the June 25, 2016, issue of Science News with questions on Earth's age, moaning whales, plate tectonics and more.",
+    "author": "Science News Staff",
+    "publicationTime": "August 10, 2016",
+    "url": "https://www.sciencenews.org/article/general-relativity-has-readers-feeling-upside-down"
+  },
+  {
+    "title": "Quantum fragility may help birds navigate",
+    "description": "Birds\u2019 internal compasses may rely on the delicate nature of the quantum world.",
+    "author": "Emily Conover",
+    "publicationTime": "June 27, 2016",
+    "url": "https://www.sciencenews.org/article/quantum-fragility-may-help-birds-navigate"
+  },
+  {
+    "title": "Quantum weirdness survives space travel",
+    "description": "Quantum weirdness travels from Earth to space and back again.",
+    "author": "Emily Conover",
+    "publicationTime": "June 5, 2016",
+    "url": "https://www.sciencenews.org/article/quantum-weirdness-survives-space-travel"
+  },
+  {
+    "title": "Schr\u00f6dinger\u2019s cat now dead and alive in two boxes at once",
+    "description": "The living-dead feline has been split in two, using a system of microwaves inside superconducting cavities.",
+    "author": "Emily Conover",
+    "publicationTime": "May 26, 2016",
+    "url": "https://www.sciencenews.org/article/schr%c3%b6dingers-cat-now-dead-and-alive-two-boxes-once"
+  },
+  {
+    "title": "Physicists smash particle imitators",
+    "description": "A new quasiparticle collider smashes together the faux-particles that appear in solid materials.",
+    "author": "Emily Conover",
+    "publicationTime": "May 11, 2016",
+    "url": "https://www.sciencenews.org/article/physicists-smash-particle-imitators"
+  },
+  {
+    "title": "Communicating covertly goes quantum",
+    "description": "Researchers are working to make quantum messages that are undetectable.",
+    "author": "Emily Conover",
+    "publicationTime": "May 9, 2016",
+    "url": "https://www.sciencenews.org/article/communicating-covertly-goes-quantum"
+  },
+  {
+    "title": "Information is physical, even in quantum systems, study suggests",
+    "description": "A thermodynamic principle says that deleting information generates heat, and now, scientists say that goes for quantum systems, too.",
+    "author": "Emily Conover",
+    "publicationTime": "April 19, 2016",
+    "url": "https://www.sciencenews.org/article/information-physical-even-quantum-systems-study-suggests"
+  },
+  {
+    "title": "Gamers outperform computer at quantum task",
+    "description": "Quantum mechanics may be weird, but a new video game shows that human intuition can still best computers at quantum tasks.",
+    "author": "Emily Conover",
+    "publicationTime": "April 13, 2016",
+    "url": "https://www.sciencenews.org/article/gamers-outperform-computer-quantum-task"
+  },
+  {
+    "title": "Finding wonders in fat",
+    "description": "In the latest issue of Science News, Editor in Chief Eva Emerson talks fat cells, thermodynamics, and lead poisoning.",
+    "author": "Eva Emerson",
+    "publicationTime": "March 9, 2016",
+    "url": "https://www.sciencenews.org/article/finding-wonders-fat"
+  },
+  {
+    "title": "Ultrasmall engines bend second law of thermodynamics",
+    "description": "Car engines and batteries run because of the second law of thermodynamics, which appears to work, with just a little bending, for ultrasmall engines in the quantum realm as well.",
+    "author": "Andrew Grant",
+    "publicationTime": "March 8, 2016",
+    "url": "https://www.sciencenews.org/article/ultrasmall-engines-bend-second-law-thermodynamics"
+  },
+  {
+    "title": "Entanglement is spooky, but not action at a distance",
+    "description": "Recent experiments on quantum entanglement confirm that it\u2019s spooky, but it was not, as Einstein implied, action at a distance.",
+    "author": "Tom Siegfried",
+    "publicationTime": "January 27, 2016",
+    "url": "https://www.sciencenews.org/blog/context/entanglement-spooky-not-action-distance"
+  },
+  {
+    "title": "Quantum spookiness survives its toughest tests",
+    "description": "Recent experiments on quantum entanglement confirm that it\u2019s spooky, but it was not, as Einstein implied, action at a distance.",
+    "author": "Tom Siegfried",
+    "publicationTime": "January 27, 2016",
+    "url": "https://www.sciencenews.org/blog/context/quantum-spookiness-survives-its-toughest-tests"
+  },
+  {
+    "title": "Quantum histories get all tangled up",
+    "description": "Multiple versions of history may be quantum entangled just like particles, a new experiment suggests.",
+    "author": "Andrew Grant",
+    "publicationTime": "January 25, 2016",
+    "url": "https://www.sciencenews.org/article/quantum-histories-get-all-tangled"
+  },
+  {
+    "title": "At last, some details on Stephen Hawking\u2019s solution to black hole problem",
+    "description": "Stephen Hawking and colleagues have finally provided more information about how black holes might preserve information.",
+    "author": "Andrew Grant",
+    "publicationTime": "January 8, 2016",
+    "url": "https://www.sciencenews.org/blog/science-ticker/last-some-details-stephen-hawkings-solution-black-hole-problem"
+  },
+  {
+    "title": "More details on Stephen Hawking\u2019s solution to black hole problem",
+    "description": "Stephen Hawking and colleagues have finally provided more information about how black holes might preserve information.",
+    "author": "Andrew Grant",
+    "publicationTime": "January 8, 2016",
+    "url": "https://www.sciencenews.org/article/more-details-stephen-hawkings-solution-black-hole-problem"
+  },
+  {
+    "title": "Year in review: Quantum spookiness is real",
+    "description": "A new version of an experiment proposed in 1964 confirmed a counterintuitive tenet of quantum mechanics.",
+    "author": "Andrew Grant",
+    "publicationTime": "December 15, 2015",
+    "url": "https://www.sciencenews.org/article/year-review-quantum-spookiness-real"
+  },
+  {
+    "title": "Google\u2019s quantum computer speeds up, but practical use is unclear",
+    "description": "Google\u2019s D-Wave quantum computer is getting faster, but it\u2019s still unclear whether it will ever outperform regular computers at completing useful tasks.",
+    "author": "Andrew Grant",
+    "publicationTime": "December 11, 2015",
+    "url": "https://www.sciencenews.org/blog/science-ticker/googles-quantum-computer-speeds-practical-use-unclear"
+  },
+  {
+    "title": "Elusive chemical reaction transition state captured",
+    "description": "A new method provides a detailed look at the elusive transition state.",
+    "author": "Laura Sanders",
+    "publicationTime": "December 10, 2015",
+    "url": "https://www.sciencenews.org/article/elusive-chemical-reaction-transition-state-captured"
+  },
+  {
+    "title": "Spooky quantum connection quantified for multiple particles",
+    "description": "Physicists have measured quantum entanglement between several particles rather than just two.",
+    "author": "Andrew Grant",
+    "publicationTime": "December 2, 2015",
+    "url": "https://www.sciencenews.org/article/spooky-quantum-connection-quantified-multiple-particles"
+  },
+  {
+    "title": "More tests confirm quantum spookiness",
+    "description": "New experimental results confirm and strengthen evidence for the \u201cspooky\u201d reality of quantum physics.",
+    "author": "Andrew Grant",
+    "publicationTime": "November 13, 2015",
+    "url": "https://www.sciencenews.org/blog/science-ticker/more-tests-confirm-quantum-spookiness"
+  },
+  {
+    "title": "Quantum spookiness, magnetic mysteries and more feedback",
+    "description": "Letters and comments from readers on quantum spookiness, Earth's magnetic field, and more.",
+    "author": "Science News Staff",
+    "publicationTime": "November 4, 2015",
+    "url": "https://www.sciencenews.org/article/quantum-spookiness-magnetic-mysteries-and-more-feedback"
+  },
+  {
+    "title": "Light mimics hotel with limitless vacancies",
+    "description": "By mimicking a mathematician\u2019s method for creating vacancies in a hotel with an infinite number of rooms, physicists may have found a way of increasing the amount of data that can be carried via light.",
+    "author": "Andrew Grant",
+    "publicationTime": "October 26, 2015",
+    "url": "https://www.sciencenews.org/article/light-mimics-hotel-limitless-vacancies"
+  },
+  {
+    "title": "Quantum interpretations feel the heat",
+    "description": "Landauer\u2019s principle shows a way to test competing interpretations about quantum physics.",
+    "author": "Tom Siegfried",
+    "publicationTime": "October 25, 2015",
+    "url": "https://www.sciencenews.org/blog/context/quantum-interpretations-feel-heat"
+  },
+  {
+    "title": "Confirmed: Quantum mechanics is weird",
+    "description": "The first demonstration of a loophole-free Bell test validates the weirdness of quantum physics.",
+    "author": "Andrew Grant",
+    "publicationTime": "October 21, 2015",
+    "url": "https://www.sciencenews.org/blog/science-ticker/confirmed-quantum-mechanics-weird"
+  },
+  {
+    "title": "Future quantum computing could exploit old technology",
+    "description": "Silicon transistors have been modified and patched together to form logic gates that could perform calculations in future quantum computers.",
+    "author": "Andrew Grant",
+    "publicationTime": "October 9, 2015",
+    "url": "https://www.sciencenews.org/article/future-quantum-computing-could-exploit-old-technology"
+  },
+  {
+    "title": "Entanglement: Gravity\u2019s long-distance connection",
+    "description": "The universe may be a vast quantum computer that safely encodes spacetime in an elaborate web of entanglement.",
+    "author": "Andrew Grant",
+    "publicationTime": "October 7, 2015",
+    "url": "https://www.sciencenews.org/article/entanglement-gravitys-long-distance-connection"
+  },
+  {
+    "title": "Quantum choice can be counterproductive",
+    "description": "In a puzzling paradox, delivering quantum messages becomes more difficult if the intended recipient offers the sender multiple options for the time and place of delivery.",
+    "author": "Andrew Grant",
+    "publicationTime": "September 22, 2015",
+    "url": "https://www.sciencenews.org/article/quantum-choice-can-be-counterproductive"
+  },
+  {
+    "title": "Shinsei Ryu: Error-free quantum calculations",
+    "description": "Physicist Shinsei Ryu navigates the confusing border between the quantum and everyday realms.",
+    "author": "Thomas Sumner",
+    "publicationTime": "September 22, 2015",
+    "url": "https://www.sciencenews.org/article/shinsei-ryu-error-free-quantum-calculations"
+  },
+  {
+    "title": "New experiment verifies quantum spookiness",
+    "description": "A new experiment provides the most robust proof that quantum mechanics doesn\u2019t follow the rules we take for granted in everyday life.",
+    "author": "Andrew Grant",
+    "publicationTime": "August 28, 2015",
+    "url": "https://www.sciencenews.org/article/new-experiment-verifies-quantum-spookiness"
+  },
+  {
+    "title": "Hawking proposes solution to black hole problem",
+    "description": "Light sliding along the boundary of a black hole encodes everything that ever fell inside, suggests Stephen Hawking in a new but incomplete proposal.",
+    "author": "Andrew Grant",
+    "publicationTime": "August 26, 2015",
+    "url": "https://www.sciencenews.org/article/hawking-proposes-solution-black-hole-problem"
+  },
+  {
+    "title": "Physicists get answers from computer that didn\u2019t run",
+    "description": "By exploiting the quirks of quantum mechanics, physicists consistently determined what a quantum computer would have done without actually running the computer.",
+    "author": "Andrew Grant",
+    "publicationTime": "August 24, 2015",
+    "url": "https://www.sciencenews.org/article/physicists-get-answers-computer-didnt-run"
+  },
+  {
+    "title": "Quantum communication takes a new twist",
+    "description": "A three-kilometer transmission of light above the Vienna skyline demonstrates that scientists can use the twistiness of light to encode delicate quantum information.",
+    "author": "Andrew Grant",
+    "publicationTime": "August 5, 2015",
+    "url": "https://www.sciencenews.org/article/quantum-communication-takes-new-twist"
+  },
+  {
+    "title": "Quantum dots get a second chance to shine",
+    "description": "Quantum dots, semiconductor particles that can emit a rainbow of colors, have been put to work observing living cells, with possible benefits for medical diagnosis.",
+    "author": "Alexandra Witze",
+    "publicationTime": "June 29, 2015",
+    "url": "https://www.sciencenews.org/article/quantum-dots-get-second-chance-shine"
+  },
+  {
+    "title": "Quantum experiment dissects wave-particle mash-up",
+    "description": "A modified version of a landmark quantum physics experiment has shown that a single parcel of light can be a particle and a wave simultaneously.",
+    "author": "Andrew Grant",
+    "publicationTime": "May 10, 2015",
+    "url": "https://www.sciencenews.org/article/quantum-experiment-dissects-wave-particle-mash"
+  },
+  {
+    "title": "Atomic clock will keep precise time for 15 billion years",
+    "description": "The world\u2019s most precise atomic clock will not lose or gain a second in roughly 15 billion years.",
+    "author": "Andrew Grant",
+    "publicationTime": "April 21, 2015",
+    "url": "https://www.sciencenews.org/blog/science-ticker/atomic-clock-will-keep-precise-time-15-billion-years"
+  },
+  {
+    "title": "One photon wrangles 3,000 atoms into quantum entanglement",
+    "description": "A single photon can trigger the creation of quantum entanglement between thousands of atoms.",
+    "author": "Andrew Grant",
+    "publicationTime": "March 25, 2015",
+    "url": "https://www.sciencenews.org/blog/science-ticker/one-photon-wrangles-3000-atoms-quantum-entanglement"
+  },
+  {
+    "title": "Quantum links provide clues to causation",
+    "description": "Quantum entanglement enables physicists to determine cause and effect just by tracking the association between two measurements.",
+    "author": "Andrew Grant",
+    "publicationTime": "March 23, 2015",
+    "url": "https://www.sciencenews.org/article/quantum-links-provide-clues-causation"
+  },
+  {
+    "title": "Finding quantum entanglement in a crowd",
+    "description": "Physicists have measured entanglement between pairs of photons within a macroscopic beam of light, a first step toward understanding how particles\u2019 quantum connections lead to large-scale effects.",
+    "author": "Andrew Grant",
+    "publicationTime": "March 16, 2015",
+    "url": "https://www.sciencenews.org/article/finding-quantum-entanglement-crowd"
+  },
+  {
+    "title": "Light trick can retrieve missed messages",
+    "description": "Even if photons pass you by, you can still snatch a signal from their electromagnetic wake, physicists propose.",
+    "author": "Andrew Grant",
+    "publicationTime": "March 5, 2015",
+    "url": "https://www.sciencenews.org/article/light-trick-can-retrieve-missed-messages"
+  },
+  {
+    "title": "Trying to get the down-low on gravity",
+    "description": "A twist on a classic quantum mechanics experiment could lead to the discovery of elusive gravitons.",
+    "author": "Andrew Grant",
+    "publicationTime": "March 2, 2015",
+    "url": "https://www.sciencenews.org/article/trying-get-down-low-gravity"
+  },
+  {
+    "title": "Physicists double their teleportation power",
+    "description": "In a teleportation first, physicists transfer two quantum properties from one photon to another.",
+    "author": "Andrew Grant",
+    "publicationTime": "February 25, 2015",
+    "url": "https://www.sciencenews.org/article/physicists-double-their-teleportation-power"
+  },
+  {
+    "title": "Quantum guessing game uses the future to predict the past",
+    "description": "Physicists extrapolate forward and backward in time to make accurate predictions about an object\u2019s quantum state at a particular moment.",
+    "author": "Andrew Grant",
+    "publicationTime": "February 13, 2015",
+    "url": "https://www.sciencenews.org/article/quantum-guessing-game-uses-future-predict-past"
+  },
+  {
+    "title": "Top 10 scientific mysteries for the 21st century",
+    "description": "Solving the Top 10 scientific mysteries facing the 21st century will not be all fun but could be mostly games.",
+    "author": "Tom Siegfried",
+    "publicationTime": "January 28, 2015",
+    "url": "https://www.sciencenews.org/blog/context/top-10-scientific-mysteries-21st-century"
+  },
+  {
+    "title": "Physicists debate whether quantum math is as real as atoms",
+    "description": "Physicists debate whether quantum states are as real as atoms or are just tools for forecasting phenomena.",
+    "author": "Tom Siegfried",
+    "publicationTime": "January 15, 2015",
+    "url": "https://www.sciencenews.org/blog/context/physicists-debate-whether-quantum-math-real-atoms"
+  },
+  {
+    "title": "Bell\u2019s math showed that quantum weirdness rang true",
+    "description": "50 years ago, John Bell proved a theorem that led the way to establishing the weirdness of quantum physics.",
+    "author": "Tom Siegfried",
+    "publicationTime": "December 29, 2014",
+    "url": "https://www.sciencenews.org/blog/context/bells-math-showed-quantum-weirdness-rang-true"
+  },
+  {
+    "title": "Two new particles found at Large Hadron Collider",
+    "description": "Physicists with the Large Hadron Collider beauty experiment have identified two new particles called Xi_b'- and Xi_b*-.",
+    "author": "Science News Staff",
+    "publicationTime": "November 19, 2014",
+    "url": "https://www.sciencenews.org/blog/science-ticker/two-new-particles-found-large-hadron-collider"
+  },
+  {
+    "title": "Milestone algorithm runs on quantum computer",
+    "description": "An algorithm proposed two decades ago that demonstrated the benefit of using quantum mechanics to solve certain problems has finally been run on a quantum computer.",
+    "author": "Andrew Grant",
+    "publicationTime": "November 13, 2014",
+    "url": "https://www.sciencenews.org/article/milestone-algorithm-runs-quantum-computer"
+  },
+  {
+    "title": "Magnetic detector identifies single protons",
+    "description": "An MRI-like machine can scan an individual proton, raising prospects that a similar technique could eventually image biological molecules one by one.",
+    "author": "Andrew Grant",
+    "publicationTime": "October 22, 2014",
+    "url": "https://www.sciencenews.org/article/magnetic-detector-identifies-single-protons"
+  },
+  {
+    "title": "Hawking radiation spotted within sonic black hole",
+    "description": "Lab-created sonic black hole emits energy as famed physicist Stephen Hawking predicted, though the experiment may not be definitive.",
+    "author": "Andrew Grant",
+    "publicationTime": "October 12, 2014",
+    "url": "https://www.sciencenews.org/article/hawking-radiation-spotted-within-sonic-black-hole"
+  },
+  {
+    "title": "Photons on roundabout route could get caught in action",
+    "description": "Proposed twist on classic double-slit experiment could identify light that weaves in and out.",
+    "author": "Andrew Grant",
+    "publicationTime": "October 5, 2014",
+    "url": "https://www.sciencenews.org/article/photons-roundabout-route-could-get-caught-action"
+  },
+  {
+    "title": "Quasiparticles help physicists make sense of the world",
+    "description": "To improve semiconductors, superconductors and other materials, physicists view a particle and its surroundings as one entity.",
+    "author": "Andrew Grant",
+    "publicationTime": "October 3, 2014",
+    "url": "https://www.sciencenews.org/article/quasiparticles-help-physicists-make-sense-world"
+  },
+  {
+    "title": "Three photons entangled, not just two",
+    "description": "Physicists have found a way to entangle a trio of photons, but it works only once in every quadrillion attempts.",
+    "author": "Andrew Grant",
+    "publicationTime": "September 16, 2014",
+    "url": "https://www.sciencenews.org/article/three-photons-entangled-not-just-two"
+  },
+  {
+    "title": "New analysis rescues quantum wave-particle duality",
+    "description": "An experiment that supposedly contradicted the wave-particle duality principle of quantum physics has been reanalyzed, revealing a flaw.",
+    "author": "Tom Siegfried",
+    "publicationTime": "September 15, 2014",
+    "url": "https://www.sciencenews.org/blog/context/new-analysis-rescues-quantum-wave-particle-duality"
+  },
+  {
+    "title": "Artificial atom probes sound\u2019s quantum side",
+    "description": "Scientists have designed an artificial atom to emit sound that is divided into quantum particles.",
+    "author": "Ashley Yeager",
+    "publicationTime": "September 12, 2014",
+    "url": "https://www.sciencenews.org/blog/science-ticker/artificial-atom-probes-sounds-quantum-side"
+  },
+  {
+    "title": "Holography entangles quantum physics with gravity",
+    "description": "Spacetime geometry, and therefore gravity, emerges from quantum entanglement, analyses using tensor networks show.",
+    "author": "Tom Siegfried",
+    "publicationTime": "September 8, 2014",
+    "url": "https://www.sciencenews.org/blog/context/holography-entangles-quantum-physics-gravity"
+  },
+  {
+    "title": "Molecules stop tumbling with hit of laser light",
+    "description": "Stopping molecules' rotation with a custom laser could help scientists harness them for quantum computing.",
+    "author": "Ashley Yeager",
+    "publicationTime": "September 3, 2014",
+    "url": "https://www.sciencenews.org/blog/science-ticker/molecules-stop-tumbling-hit-laser-light"
+  },
+  {
+    "title": "Tensor networks get entangled with quantum gravity",
+    "description": "Using tensors to describe quantum entanglement shows promise as a way to understand gravity.",
+    "author": "Tom Siegfried",
+    "publicationTime": "September 2, 2014",
+    "url": "https://www.sciencenews.org/blog/context/tensor-networks-get-entangled-quantum-gravity"
+  },
+  {
+    "title": "Blind quantum camera snaps photos of Schr\u00f6dinger\u2019s cat",
+    "description": "Quantum weirdness lets physicists snap photo without collecting incoming light from cardboard cat subject.",
+    "author": "Thomas Sumner",
+    "publicationTime": "August 27, 2014",
+    "url": "https://www.sciencenews.org/article/blind-quantum-camera-snaps-photos-schr%c3%b6dingers-cat"
+  },
+  {
+    "title": "Birds\u2019 turns match math of quantum matter",
+    "description": "Equations that describe superfluidity may explain how information about which way and when to turn spreads in a starling flock.",
+    "author": "Ashley Yeager",
+    "publicationTime": "July 31, 2014",
+    "url": "https://www.sciencenews.org/article/birds-turns-match-math-quantum-matter"
+  },
+  {
+    "title": "Quantum Cheshire Cat experiment splits particles from their properties",
+    "description": "When facing a fork in the road, neutrons appear to go in one direction and their spins in the other.",
+    "author": "Andrew Grant",
+    "publicationTime": "July 30, 2014",
+    "url": "https://www.sciencenews.org/article/quantum-cheshire-cat-experiment-splits-particles-their-properties"
+  },
+  {
+    "title": "Quantum connection could revitalize superstrings",
+    "description": "Status of superstrings could be elevated by their ability to explain the mysterious rules of quantum mechanics.",
+    "author": "Tom Siegfried",
+    "publicationTime": "July 30, 2014",
+    "url": "https://www.sciencenews.org/blog/context/quantum-connection-could-revitalize-superstrings"
+  },
+  {
+    "title": "You shouldn\u2019t try to pigeonhole quantum physics",
+    "description": "A quantum analysis shows a way to violate math\u2019s pigeonhole principle, by allowing three particles in two boxes with no two in the same box.",
+    "author": "Tom Siegfried",
+    "publicationTime": "July 18, 2014",
+    "url": "https://www.sciencenews.org/blog/context/you-shouldnt-try-pigeonhole-quantum-physics"
+  },
+  {
+    "title": "Quantum math makes human irrationality more sensible",
+    "description": "Vagaries of human decision making make sense if quantum math describes the way the brain works.",
+    "author": "Tom Siegfried",
+    "publicationTime": "July 8, 2014",
+    "url": "https://www.sciencenews.org/blog/context/quantum-math-makes-human-irrationality-more-sensible"
+  },
+  {
+    "title": "Electrons\u2019 magnetic interactions measured",
+    "description": "Using characteristics of quantum mechanics, the minuscule magnetic interaction between two electrons has been measured.",
+    "author": "Ashley Yeager",
+    "publicationTime": "June 20, 2014",
+    "url": "https://www.sciencenews.org/blog/science-ticker/electrons-magnetic-interactions-measured"
+  },
+  {
+    "title": "Commercial quantum computer fails to impress in new test",
+    "description": "Fifteen million dollar D-Wave machine runs no faster than traditional computer in head-to-head challenge.",
+    "author": "Andrew Grant",
+    "publicationTime": "June 19, 2014",
+    "url": "https://www.sciencenews.org/article/commercial-quantum-computer-fails-impress-new-test"
+  },
+  {
+    "title": "How to build a quantum-entangled superclock",
+    "description": "A blueprint for a quantum-entangled superclock suggests that such a device could enable startlingly precise measurements of Earth\u2019s terrain.",
+    "author": "Science News Staff",
+    "publicationTime": "June 15, 2014",
+    "url": "https://www.sciencenews.org/blog/science-ticker/how-build-quantum-entangled-superclock"
+  },
+  {
+    "title": "Maybe classical clockwork can explain quantum weirdness",
+    "description": "Nobel laureate Gerard \u2019t Hooft proposes that a classical cause-and-effect reality underlies the probabilistic strangeness of quantum physics.",
+    "author": "Tom Siegfried",
+    "publicationTime": "June 2, 2014",
+    "url": "https://www.sciencenews.org/blog/context/maybe-classical-clockwork-can-explain-quantum-weirdness"
+  },
+  {
+    "title": "The least physics you need is a lot in \u2018Quantum Mechanics\u2019",
+    "description": "Leonard Susskind and Art Friedman walk readers through the basics needed to understand the quantum realm.",
+    "author": "Tom Siegfried",
+    "publicationTime": "June 1, 2014",
+    "url": "https://www.sciencenews.org/article/least-physics-you-need-lot-quantum-mechanics"
+  },
+  {
+    "title": "Nobel laureates offer new interpretations of quantum mysteries",
+    "description": "Two Nobel laureates offer novel interpretations to explain the mysteries of quantum mechanics.",
+    "author": "Tom Siegfried",
+    "publicationTime": "May 26, 2014",
+    "url": "https://www.sciencenews.org/blog/context/nobel-laureates-offer-new-interpretations-quantum-mysteries"
+  },
+  {
+    "title": "Quantum cryptography could shed test for hackers",
+    "description": "An added protection of a proposed quantum cryptography method makes eavesdropping nearly impossible.",
+    "author": "Andrew Grant",
+    "publicationTime": "May 21, 2014",
+    "url": "https://www.sciencenews.org/article/quantum-cryptography-could-shed-test-hackers"
+  },
+  {
+    "title": "Next-gen quantum teleportation in just 2 photons",
+    "description": "Researchers teleport quantum information between two photons instead of the standard three.",
+    "author": "Andrew Grant",
+    "publicationTime": "May 13, 2014",
+    "url": "https://www.sciencenews.org/article/next-gen-quantum-teleportation-just-2-photons"
+  },
+  {
+    "title": "Major step taken toward error-free computing",
+    "description": "Physicists have achieved nearly perfect control over a bit of quantum information, bringing them a step closer to error-free computation.",
+    "author": "Gabriel Popkin",
+    "publicationTime": "April 23, 2014",
+    "url": "https://www.sciencenews.org/article/major-step-taken-toward-error-free-computing"
+  },
+  {
+    "title": "Shor\u2019s code-breaking algorithm inspired reflections on quantum information",
+    "description": "Twenty years ago, physicists met in Santa Fe to explore the ramifications of quantum information.",
+    "author": "Tom Siegfried",
+    "publicationTime": "April 18, 2014",
+    "url": "https://www.sciencenews.org/blog/context/shors-code-breaking-algorithm-inspired-reflections-quantum-information"
+  },
+  {
+    "title": "Excitons\u2019 motions captured in images",
+    "description": "Scientists have observed how quasiparticles called excitons move.",
+    "author": "Ashley Yeager",
+    "publicationTime": "April 16, 2014",
+    "url": "https://www.sciencenews.org/blog/science-ticker/excitons-motions-captured-images"
+  },
+  {
+    "title": "Quantum experts discuss the measurement problem: A transcript from 1994",
+    "description": "A fairly complete transcript of a discussion about quantum physics on May 19, 1994, the last day of a workshop in Santa Fe, N.M., evolves into a more general discussion of the interpretation of quantum mechanics and the quantum measurement problem.",
+    "author": "Tom Siegfried",
+    "publicationTime": "April 13, 2014",
+    "url": "https://www.sciencenews.org/blog/context/quantum-experts-discuss-measurement-problem-transcript-1994"
+  },
+  {
+    "title": "Robert Redford film foretold Shor\u2019s quantum computing bombshell",
+    "description": "Twenty years ago, Peter Shor showed how quantum computers could break secret codes, turning the movie Sneakers from fiction to fact.",
+    "author": "Tom Siegfried",
+    "publicationTime": "April 10, 2014",
+    "url": "https://www.sciencenews.org/blog/context/robert-redford-film-foretold-shors-quantum-computing-bombshell"
+  },
+  {
+    "title": "Small step taken for quantum communication",
+    "description": "A single atom can change the state of a photon, which may help build quantum networks.",
+    "author": "Ashley Yeager",
+    "publicationTime": "April 9, 2014",
+    "url": "https://www.sciencenews.org/blog/science-ticker/small-step-taken-quantum-communication"
+  },
+  {
+    "title": "U.S. marches to tick of new clock",
+    "description": "The atomic clock NIST-F2 has launched as the country\u2019s official civilian time and frequency standard.",
+    "author": "Science News Staff",
+    "publicationTime": "April 3, 2014",
+    "url": "https://www.sciencenews.org/blog/science-ticker/us-marches-tick-new-clock"
+  },
+  {
+    "title": "Finding a quantum way to make free will possible",
+    "description": "Maybe quantum influences from the Big Bang make humans unpredictable, permitting the possibility of free will.",
+    "author": "Tom Siegfried",
+    "publicationTime": "February 26, 2014",
+    "url": "https://www.sciencenews.org/blog/context/finding-quantum-way-make-free-will-possible"
+  },
+  {
+    "title": "Quantum timekeeping",
+    "description": "Recent advances in controlling the quantum behavior of particles have inspired physicists to dream of a global clock that would tell the same time everywhere. It would be hundreds of times as accurate as current atomic clocks.",
+    "author": "Andrew Grant",
+    "publicationTime": "February 21, 2014",
+    "url": "https://www.sciencenews.org/article/quantum-timekeeping"
+  },
+  {
+    "title": "Einstein was wrong about spooky quantum entanglement",
+    "description": "Einstein\u2019s biggest blunder wasn\u2019t about vacuum energy in space, but in confusing people about quantum entanglement.",
+    "author": "Tom Siegfried",
+    "publicationTime": "February 19, 2014",
+    "url": "https://www.sciencenews.org/blog/context/einstein-was-wrong-about-spooky-quantum-entanglement"
+  },
+  {
+    "title": "History affects superfluid\u2019s flow, study shows",
+    "description": "The speed to stop the stirring motion can be slower than what was need to set the fluid spinning in the first place, which shows that what happens to the current state of the superatom depends on what it has already experienced.",
+    "author": "Ashley Yeager",
+    "publicationTime": "February 14, 2014",
+    "url": "https://www.sciencenews.org/blog/science-ticker/history-affects-superfluids-flow-study-shows"
+  },
+  {
+    "title": "Tom\u2019s Top 10 interpretations of quantum mechanics",
+    "description": "Quantum mechanics has given birth to dozens of interpretations, which themselves need interpretations.",
+    "author": "Tom Siegfried",
+    "publicationTime": "February 5, 2014",
+    "url": "https://www.sciencenews.org/blog/context/toms-top-10-interpretations-quantum-mechanics"
+  },
+  {
+    "title": "Single-pole magnet emerges in frozen concoction",
+    "description": "An experiment has simulated the long-sought magnetic particle.",
+    "author": "Andrew Grant",
+    "publicationTime": "February 4, 2014",
+    "url": "https://www.sciencenews.org/article/single-pole-magnet-emerges-frozen-concoction"
+  },
+  {
+    "title": "Atomic clock sets world records for precision, stability",
+    "description": "The strontium atomic clock is about 50 percent more precise than the previous record holder made of a single charged aluminum atom and rivals the ytterbium atomic clock for the title of most stable.",
+    "author": "Ashley Yeager",
+    "publicationTime": "January 23, 2014",
+    "url": "https://www.sciencenews.org/blog/science-ticker/atomic-clock-sets-world-records-precision-stability"
+  },
+  {
+    "title": "Gell-Mann, Hartle spin a quantum narrative about reality",
+    "description": "The \u201cconsistent histories\u201d approach to quantum physics removes any role for people in creating \u201cquasiclassical\u201d reality.",
+    "author": "Tom Siegfried",
+    "publicationTime": "January 21, 2014",
+    "url": "https://www.sciencenews.org/blog/context/gell-mann-hartle-spin-quantum-narrative-about-reality"
+  },
+  {
+    "title": "\u2018QBists\u2019 tackle quantum problems by adding a subjective aspect to science",
+    "description": "Advocates of a program called \u201cQuantum Bayesianism\u201d take a subjective approach to resolving the paradoxes of quantum physics.",
+    "author": "Tom Siegfried",
+    "publicationTime": "January 15, 2014",
+    "url": "https://www.sciencenews.org/blog/context/qbists-tackle-quantum-problems-adding-subjective-aspect-science"
+  },
+  {
+    "title": "Electrons\u2019 roundness frustrates researchers",
+    "description": "Experiment finds no signs of asymmetry, which would point to undiscovered particles.",
+    "author": "Andrew Grant",
+    "publicationTime": "December 19, 2013",
+    "url": "https://www.sciencenews.org/article/electrons-roundness-frustrates-researchers"
+  },
+  {
+    "title": "Quantum information storage that lasts and lasts",
+    "description": "Physicists have stored a snippet of quantum information at room temperature for more than 1,000 times the previous record.",
+    "author": "Gabriel Popkin",
+    "publicationTime": "November 14, 2013",
+    "url": "https://www.sciencenews.org/article/quantum-information-storage-lasts-and-lasts"
+  },
+  {
+    "title": "Single atoms hold on to information",
+    "description": "Minutes-long data storage by individual atoms beats previous record of tiny fraction of a second.",
+    "author": "Andrew Grant",
+    "publicationTime": "November 13, 2013",
+    "url": "https://www.sciencenews.org/article/single-atoms-hold-information"
+  },
+  {
+    "title": "Electron makes ultracold atoms move as one",
+    "description": "Harnessing the strong particle-gas interaction is early step toward quantum optics applications.",
+    "author": "Ashley Yeager",
+    "publicationTime": "October 31, 2013",
+    "url": "https://www.sciencenews.org/blog/science-ticker/electron-makes-ultracold-atoms-move-one"
+  },
+  {
+    "title": "Single electron caught in action",
+    "description": "Researchers have found a way to isolate the behavior of one particle.",
+    "author": "Andrew Grant",
+    "publicationTime": "October 23, 2013",
+    "url": "https://www.sciencenews.org/article/single-electron-caught-action"
+  },
+  {
+    "title": "Heisenberg\u2019s instinct was accurate",
+    "description": "Scientists develop mathematical proof of quantum physics feature first suggested more than 80 years ago.",
+    "author": "Ashley Yeager",
+    "publicationTime": "October 21, 2013",
+    "url": "https://www.sciencenews.org/blog/science-ticker/heisenbergs-instinct-was-accurate"
+  },
+  {
+    "title": "New limit placed on physics constant",
+    "description": "An analysis of how much the fine structure constant varies with the density of matter may help scientists determine whether the parameter changes with time.",
+    "author": "Gabriel Popkin",
+    "publicationTime": "October 15, 2013",
+    "url": "https://www.sciencenews.org/article/new-limit-placed-physics-constant"
+  },
+  {
+    "title": "Simulating reactions in cyberspace earns Nobel Prize in chemistry",
+    "description": "Computer models that meld quantum and classical calculations have earned three scientists the 2013 Nobel Prize in chemistry.",
+    "author": "Science News",
+    "publicationTime": "October 9, 2013",
+    "url": "https://www.sciencenews.org/article/simulating-reactions-cyberspace-earns-nobel-prize-chemistry"
+  },
+  {
+    "title": "Quantum teleportation approaches the computer chip",
+    "description": "Researchers speedily transmit information from  one tiny circuit to another on solid-state device.",
+    "author": "Andrew Grant",
+    "publicationTime": "August 14, 2013",
+    "url": "https://www.sciencenews.org/article/quantum-teleportation-approaches-computer-chip"
+  },
+  {
+    "title": "Most precise clock",
+    "description": "It would take more than 50 billion years for a new atomic clock to gain or lose a second.",
+    "author": "Andrew Grant",
+    "publicationTime": "July 1, 2013",
+    "url": "https://www.sciencenews.org/article/most-precise-clock"
+  },
+  {
+    "title": "Light breaks up to cloak gaps in time",
+    "description": "Method could hide messages without sender\u2019s knowledge.",
+    "author": "Andrew Grant",
+    "publicationTime": "June 5, 2013",
+    "url": "https://www.sciencenews.org/article/light-breaks-cloak-gaps-time"
+  },
+  {
+    "title": "Quantum teleportation leaps forward",
+    "description": "Two teams report beaming information about particles over long distances, a step toward creating satellite quantum communication networks.",
+    "author": "Alexandra Witze",
+    "publicationTime": "May 31, 2012",
+    "url": "https://www.sciencenews.org/article/quantum-teleportation-leaps-forward"
+  },
+  {
+    "title": "New system offers way to defeat decryption by quantum computers",
+    "description": "",
+    "author": "Julie Rehmeyer",
+    "publicationTime": "July 25, 2011",
+    "url": "https://www.sciencenews.org/article/new-system-offers-way-defeat-decryption-quantum-computers"
+  },
+  {
+    "title": "Like fate of cat, quantum debate is still unresolved",
+    "description": "Entanglement is now one of the hottest research fields in physics. It is pursued not only for insights into the nature of reality, but also for developing new technologies.",
+    "author": "Tom Siegfried",
+    "publicationTime": "November 5, 2010",
+    "url": "https://www.sciencenews.org/article/fate-cat-quantum-debate-still-unresolved"
+  },
+  {
+    "title": "Everyday Entanglement",
+    "description": "Physicists are taking quantum weirdness out of the lab.",
+    "author": "Laura Sanders",
+    "publicationTime": "November 5, 2010",
+    "url": "https://www.sciencenews.org/article/everyday-entanglement"
+  },
+  {
+    "title": "Clash of the Quantum Titans",
+    "description": "After decades of debate, disputes over the mathematical rules governing reality remain unresolved.",
+    "author": "Tom Siegfried",
+    "publicationTime": "November 5, 2010",
+    "url": "https://www.sciencenews.org/article/clash-quantum-titans"
+  },
+  {
+    "title": "Higgs and his particle prove elusive",
+    "description": "Peter Higgs and colleagues receive particle theory prize; scientists still hunting the proposed boson",
+    "author": "Ron Cowen",
+    "publicationTime": "February 15, 2010",
+    "url": "https://www.sciencenews.org/blog/on-the-scene/higgs-and-his-particle-prove-elusive"
+  },
+  {
+    "title": "Quantum information teleported between distant atoms",
+    "description": "A team is the first to transfer a qubit, which contains quantum information, from one atom to another, a feat that could aid quantum computing and secure communication.",
+    "author": "Patrick Barry",
+    "publicationTime": "January 22, 2009",
+    "url": "https://www.sciencenews.org/article/quantum-information-teleported-between-distant-atoms"
+  }
+]
